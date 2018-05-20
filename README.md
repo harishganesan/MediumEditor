@@ -1,2 +1,2 @@
 # MediumEditor
-MediumEdiot using Materialize
+MediumEditor using Materialize
