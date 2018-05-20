@@ -1,2 +1,2 @@
 # MediumEditor
-MediumEditor using Materialize
+MediumEditor using Materialize in Django.
